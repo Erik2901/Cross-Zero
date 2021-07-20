@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(141,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(144,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(147,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(158,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(161,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(164,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Erik\Documents\VS projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(208): warning C4715: getAICoord: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\Erik\Documents\VS projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
